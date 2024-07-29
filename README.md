@@ -50,7 +50,7 @@ AI-TEXT-TO-WORD is a desktop application that converts formatted text (typically
 
 5. If the file already exists, the application will ask if you want to replace it.
 
-## Supported Text Format
+## Supported Text Format (v1.0.0)
 
 The application supports the following text format:
 
